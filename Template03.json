@@ -4,7 +4,7 @@
     "components": {
       "ViewportIcons": {
         "defaultProps": {
-          "size": "64",
+          "size": "40",
           "enableCamerasBtn": false,
           "enableArBtn": false
           "iconStyle": {m: "5px"},
