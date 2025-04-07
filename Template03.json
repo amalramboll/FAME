@@ -1,6 +1,20 @@
 {
   "version": "1.0",
   "themeOverrides": {
+    "components": {
+            "ViewportIcons": {
+                "defaultProps": {
+                   "size": "40",
+                   "enableCamerasBtn": false,
+                   "enableArBtn": false
+                }
+            },
+            "ViewportOverlayWrapper": {
+                "defaultProps": {
+                   "position": "bottom-left"
+                }
+            }
+        }
     "primaryColor": "customDarkNavy",
     "colors": {
       "customDarkNavy": [
