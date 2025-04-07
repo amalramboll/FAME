@@ -14,7 +14,7 @@
         "defaultProps": {
           "position": "bottom-left"
         }
-      }
+      },
       "AppBuilderGridTemplatePage": {
         "defaultProps": {
           "bgTop": "transparent",
@@ -30,7 +30,7 @@
           "topFullWidth": false,
           "bottomFullWidth": false,
         }
-      }
+      },
        "AppBuilderAppShellTemplatePage": {
                 "defaultProps": {
                     "headerHeight": {
