@@ -2,6 +2,10 @@
     "version": "1.0",
     "themeOverrides": {
         "fontFamily": "'Helvetica Neue', sans-serif",
+        "headings": {
+          "fontFamily": "'Work Sans', sans-serif",
+          "fontWeight": 300
+    },
         "components": {
             "ViewportIcons": {
                 "defaultProps": {
