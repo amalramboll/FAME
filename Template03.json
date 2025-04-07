@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "customDarkNavy",
+    "primaryColor": "rambollBlue",
     "colors": {
       "rambollBlue": [
         "#0033A0",
