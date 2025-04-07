@@ -3,17 +3,17 @@
   "themeOverrides": {
     "primaryColor": "customDarkNavy",
     "colors": {
-      "customDarkNavy": [
-        "#f1f3f9",
-        "#e1e4eb",
-        "#bfc6d8",
-        "#9aa6c6",
-        "#7a8bb6",
-        "#677aad",
-        "#5c72aa",
-        "#4d6195",
-        "#435686",
-        "#364a77"
+      "rambollBlue": [
+        "#0033A0", // Dark Blue
+        "#005EB8", // Medium Blue
+        "#0072CE", // Bright Blue
+        "#0098DB", // Light Blue
+        "#00AEEF", // Cyan
+        "#8EC5E5", // Lighter Blue
+        "#B3D7E8", // Very Light Blue
+        "#CCE4EF", // Pale Blue 
+        "#E6F1F5", // Very Pale Blue
+        "#F0F7FC"  // Almost White Blue
       ],
       "customLightBlue": [
         "#e9f5ff",
