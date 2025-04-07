@@ -35,6 +35,7 @@
                         "lg": 2
                     },
                     "rightColumns": 1,
+                    "headerBorder": true,
                     "bottomRows": 1,
                     "bottomFullWidth": {
                         "base": true,
