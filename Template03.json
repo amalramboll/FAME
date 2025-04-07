@@ -4,7 +4,7 @@
     "primaryColor": "customDarkNavy",
     "colors": {
       "customDarkNavy": [
-        "#7DDA58"
+        "#7dda58"
       ],
       "customLightBlue": [
         "#e9f5ff",
@@ -47,7 +47,7 @@
     "fontFamily": "Helvetica Neue",
     "headings": {
       "fontFamily": "Helvetica Neue",
-      "fontWeight": 500
+      "fontWeight": 300
     },
     "white": "#FFFFFF",
     "black": "#131A2A",
