@@ -118,20 +118,18 @@
           }
         }
       },
-         
-            "ViewportIcons": {
-                "defaultProps": {
-                   "size": "40",
-                   "enableCamerasBtn": false,
-                   "enableArBtn": false
-                }
-            },
-            "ViewportOverlayWrapper": {
-                "defaultProps": {
-                   "position": "bottom-left"
-                }
-            }
-        
+      "ViewportIcons": {
+        "defaultProps": {
+          "size": "40",
+          "enableCamerasBtn": false,
+          "enableArBtn": false
+        }
+      },
+      "ViewportOverlayWrapper": {
+        "defaultProps": {
+          "position": "bottom-left"
+        }
+      }
     }
   }
 }
