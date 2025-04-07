@@ -15,6 +15,22 @@
           "position": "bottom-left"
         }
       }
+      "AppBuilderGridTemplatePage": {
+        "defaultProps": {
+          "bgTop": "transparent",
+	        "bgLeft": "transparent",
+          "bgRight": "transparent",
+          "bgBottom": "transparent",
+          "columns": 4,
+          "rows": 4,
+          "leftColumns": 1,
+          "rightColumns": 1,
+          "topRows": 1,
+          "bottomRows": 1,
+          "topFullWidth": false,
+          "bottomFullWidth": false,
+        }
+      }
        "AppBuilderAppShellTemplatePage": {
                 "defaultProps": {
                     "headerHeight": {
