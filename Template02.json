@@ -1,24 +1,24 @@
 {
-    "version": "1.0",
-    "themeOverrides": {
-        "fontFamily": "'Helvetica Neue', sans-serif",
-        "headings": {
-          "fontFamily": "'Work Sans', sans-serif",
-          "fontWeight": 300
+  "version": "1.0",
+  "themeOverrides": {
+    "fontFamily": "'Helvetica Neue', sans-serif",
+    "headings": {
+      "fontFamily": "'Helvetica Neue', sans-serif",
+      "fontWeight": 500
     },
-        "components": {
-            "ViewportIcons": {
-                "defaultProps": {
-                   "size": "64",
-                   "enableCamerasBtn": false,
-                   "enableArBtn": false
-                }
-            },
-            "ViewportOverlayWrapper": {
-                "defaultProps": {
-                   "position": "bottom-left"
-                }
-            }
+    "components": {
+      "ViewportIcons": {
+        "defaultProps": {
+          "size": "64",
+          "enableCamerasBtn": false,
+          "enableArBtn": false
         }
+      },
+      "ViewportOverlayWrapper": {
+        "defaultProps": {
+          "position": "bottom-left"
+        }
+      }
     }
+  }
 }
