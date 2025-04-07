@@ -19,6 +19,16 @@
           "position": "bottom-left"
         }
       }
+       "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://assets-eu-01.kc-usercontent.com/7c3778f1-714a-0155-9be8-162f4c282b22/25674e69-0e10-410a-a637-6f7665ccb064/ramboll.svg"
+          },
+          "dark": {
+            "logo": "https://assets-eu-01.kc-usercontent.com/7c3778f1-714a-0155-9be8-162f4c282b22/25674e69-0e10-410a-a637-6f7665ccb064/ramboll.svg"
+          }
+        }
+      }
     }
   }
 }
