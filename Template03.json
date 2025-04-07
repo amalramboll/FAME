@@ -4,7 +4,16 @@
     "primaryColor": "customDarkNavy",
     "colors": {
       "customDarkNavy": [
-        "#7dda58"
+        "#f1f3f9",
+        "#e1e4eb",
+        "#bfc6d8",
+        "#9aa6c6",
+        "#7a8bb6",
+        "#677aad",
+        "#5c72aa",
+        "#4d6195",
+        "#435686",
+        "#364a77"
       ],
       "customLightBlue": [
         "#e9f5ff",
