@@ -53,9 +53,9 @@
       ]
     },
     "defaultRadius": "20",
-    "fontFamily": "Helvetica Neue",
+    "fontFamily": "'Helvetica Neue', sans-serif",
     "headings": {
-      "fontFamily": "Helvetica Neue",
+      "fontFamily": "'Helvetica Neue', sans-serif",
       "fontWeight": 300
     },
     "white": "#FFFFFF",
