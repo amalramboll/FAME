@@ -118,7 +118,7 @@
           }
         }
       },
-          "components": {
+         
             "ViewportIcons": {
                 "defaultProps": {
                    "size": "40",
@@ -131,7 +131,7 @@
                    "position": "bottom-left"
                 }
             }
-        }
+        
     }
   }
 }
