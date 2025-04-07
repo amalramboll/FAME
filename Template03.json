@@ -4,16 +4,16 @@
     "primaryColor": "customDarkNavy",
     "colors": {
       "rambollBlue": [
-        "#0033A0", // Dark Blue
-        "#005EB8", // Medium Blue
-        "#0072CE", // Bright Blue
-        "#0098DB", // Light Blue
-        "#00AEEF", // Cyan
-        "#8EC5E5", // Lighter Blue
-        "#B3D7E8", // Very Light Blue
-        "#CCE4EF", // Pale Blue 
-        "#E6F1F5", // Very Pale Blue
-        "#F0F7FC"  // Almost White Blue
+        "#0033A0",
+        "#005EB8",
+        "#0072CE",
+        "#0098DB",
+        "#00AEEF",
+        "#8EC5E5",
+        "#B3D7E8",
+        "#CCE4EF",
+        "#E6F1F5",
+        "#F0F7FC"
       ],
       "customLightBlue": [
         "#e9f5ff",
