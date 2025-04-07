@@ -7,7 +7,7 @@
           "size": "40",
           "enableCamerasBtn": false,
           "enableArBtn": false
-          "iconStyle": {m: "5px"},
+          "iconStyle": {m: "3px"},
         }
       },
       "ViewportOverlayWrapper": {
