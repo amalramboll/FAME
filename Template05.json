@@ -1,7 +1,6 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "rambollBlue",
     "defaultRadius": "20",
     "fontFamily": "'Helvetica Neue', sans-serif",
     "headings": {
@@ -9,7 +8,6 @@
       "fontWeight": 300
     },
     "components": {
-
       "Button": {
         "defaultProps": {
           "fw": "300"
