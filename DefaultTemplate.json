@@ -1,15 +1,12 @@
 {
   "version": "1.0",
   "themeOverrides": {
-    "primaryColor": "#0033A0",
     "defaultRadius": "20",
     "fontFamily": "'Helvetica Neue', sans-serif",
     "headings": {
       "fontFamily": "'Helvetica Neue', sans-serif",
       "fontWeight": 300
     },
-    "white": "#FFFFFF",
-    "black": "#131A2A",
     
     "components": {
 
