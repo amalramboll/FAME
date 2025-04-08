@@ -2,56 +2,6 @@
   "version": "1.0",
   "themeOverrides": {
     "primaryColor": "rambollBlue",
-    "colors": {
-      "rambollBlue": [
-        "#0033A0",
-        "#005EB8",
-        "#0072CE",
-        "#0098DB",
-        "#00AEEF",
-        "#8EC5E5",
-        "#B3D7E8",
-        "#CCE4EF",
-        "#E6F1F5",
-        "#F0F7FC"
-      ],
-      "customLightBlue": [
-        "#e9f5ff",
-        "#d8e5f9",
-        "#b2c8ea",
-        "#89aadb",
-        "#6690ce",
-        "#507fc7",
-        "#4377c4",
-        "#3366ae",
-        "#295a9e",
-        "#184e8c"
-      ],
-      "customLightBeige": [
-        "#fbf7ee",
-        "#f4ebdd",
-        "#ead6b5",
-        "#e1c08a",
-        "#d8ad64",
-        "#d3a14d",
-        "#d19b40",
-        "#b98632",
-        "#a5762b",
-        "#8f661f"
-      ],
-      "gray": [
-        "#e9f5ff",
-        "#d8e5f9",
-        "#b2c8ea",
-        "#89aadb",
-        "#6690ce",
-        "#507fc7",
-        "#4377c4",
-        "#3366ae",
-        "#295a9e",
-        "#184e8c"
-      ]
-    },
     "defaultRadius": "20",
     "fontFamily": "'Helvetica Neue', sans-serif",
     "headings": {
@@ -60,16 +10,6 @@
     },
     "white": "#FFFFFF",
     "black": "#131A2A",
-    "other": {
-      "customLightBeige": "#FCF8F1",
-      "customLightBlue": "#6F96D1",
-      "customTone01": "#EFF4FA",
-      "customTone02": "#D0DDF0",
-      "customTone03": "#B1C7E7",
-      "customTone04": "#92B0DD",
-      "defaultFontWeight": "100",
-      "forceColorScheme": "light"
-    },
     "components": {
 
       "Button": {
