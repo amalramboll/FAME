@@ -1,0 +1,76 @@
+{
+  "version": "1.0",
+  "themeOverrides": {
+    "primaryColor": "#0033A0",
+    "defaultRadius": "20",
+    "fontFamily": "'Helvetica Neue', sans-serif",
+    "headings": {
+      "fontFamily": "'Helvetica Neue', sans-serif",
+      "fontWeight": 300
+    },
+    "white": "#FFFFFF",
+    "black": "#131A2A",
+    "other": {
+      "customLightBeige": "#FCF8F1",
+      "customLightBlue": "#6F96D1",
+      "customTone01": "#EFF4FA",
+      "customTone02": "#D0DDF0",
+      "customTone03": "#B1C7E7",
+      "customTone04": "#92B0DD",
+      "defaultFontWeight": "100",
+      "forceColorScheme": "light"
+    },
+    "components": {
+
+      "Button": {
+        "defaultProps": {
+          "fw": "300"
+        }
+      },
+      "ExportLabelComponent": {
+        "defaultProps": {
+          "fontWeight": "100"
+        }
+      },
+      "MarkdownWidgetComponent": {
+        "defaultProps": {
+          "boldFontWeight": "200",
+          "strongFontWeight": "200"
+        }
+      },
+      "ParameterLabelComponent": {
+        "defaultProps": {
+          "fontWeight": "100"
+        }
+      },
+      "Text": {
+        "defaultProps": {
+          "fw": "100",
+          "size": "sm"
+        }
+      },
+      "ViewportBranding": {
+        "defaultProps": {
+          "light": {
+            "logo": "https://assets-eu-01.kc-usercontent.com/7c3778f1-714a-0155-9be8-162f4c282b22/25674e69-0e10-410a-a637-6f7665ccb064/ramboll.svg"
+          },
+          "dark": {
+            "logo": "https://assets-eu-01.kc-usercontent.com/7c3778f1-714a-0155-9be8-162f4c282b22/25674e69-0e10-410a-a637-6f7665ccb064/ramboll.svg"
+          }
+        }
+      },
+      "ViewportIcons": {
+        "defaultProps": {
+          "size": "40",
+          "enableCamerasBtn": false,
+          "enableArBtn": false
+        }
+      },
+      "ViewportOverlayWrapper": {
+        "defaultProps": {
+          "position": "bottom-left"
+        }
+      }
+    }
+  }
+}
