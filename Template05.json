@@ -8,8 +8,6 @@
       "fontFamily": "'Helvetica Neue', sans-serif",
       "fontWeight": 300
     },
-    "white": "#FFFFFF",
-    "black": "#131A2A",
     "components": {
 
       "Button": {
